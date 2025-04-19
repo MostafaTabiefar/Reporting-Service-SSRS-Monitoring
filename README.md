@@ -14,7 +14,7 @@ The dashboard is designed to give actionable insights into:
   subscription errors.
 The goal is to help system administrators, BI developers, and analysts optimize their reporting service performance and troubleshoot refresh issues efficiently.
 
----
+--- 
 
 ## Features
 
