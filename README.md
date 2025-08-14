@@ -6,7 +6,7 @@ The primary objective of this dashboard is to track end-users and analyze their 
 
 ## Overview
 
-This project provides a dynamic Reporting Service Monitoring Dashboard that enables users to track and analyze key metrics related to a report server. 
+This project provides a Dynamic Reporting Service Monitoring Dashboard that enables users to track and analyze key metrics related to a report server. 
 The dashboard is designed to give actionable insights into:
 ### User activity:
   Active users, report executions, and successful visits.

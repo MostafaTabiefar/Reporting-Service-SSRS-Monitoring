@@ -11,7 +11,7 @@ For this dashboard, it is recommended to retain execution log data for at least 
 
 ## Potential Issues with Extended Retention
 
-### 1. **Disk Space Usage**
+### 1. ** Disk Space Usage **
 - **Problem**: Logs can accumulate quickly, especially if there is a high volume of reports or verbose logging enabled.
 - **Impact**: This can result in excessive disk space usage, potentially impacting the **performance** of the report server and other applications that share the same disk space.
 

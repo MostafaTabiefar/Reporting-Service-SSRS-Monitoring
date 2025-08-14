@@ -16,7 +16,7 @@ This guide will walk you through the simple steps to configure the dashboard so 
 
 The dashboard is pre-configured to adapt to your data with minimal setup. All you need to do is update the following parameters:  
 
-- **Server Name**  
+- **Server Name **  
 - **Database Name**  
 
 ### **How to Update the Parameters**:
